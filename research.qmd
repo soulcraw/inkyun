@@ -1,0 +1,75 @@
+---
+title: "Research"
+---
+
+## Publications
+
+1. In-Kyun Kim, Yuchen Liu, and Chengxi Wang, **Wall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces**, *Forum of Mathematics, Sigma* **14** (2026), e79. [DOI](https://doi.org/10.1017/fms.2026.10225)
+
+1. In-Kyun Kim and Joonyeong Won, **On K-stability of blow-ups of weighted projective planes**, *Proceedings A of the Royal Society of Edinburgh* (2025). [DOI](https://doi.org/10.1017/prm.2025.10064)
+
+1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in Weighted Fano Hypersurfaces via Projections and Unprojections**, *Taiwanese Journal of Mathematics* (2025). [DOI](https://doi.org/10.11650/tjm/250502)
+
+1. In-Kyun Kim, Jinhyung Park, and Joonyeong Won, **K-polystability of the first secant varieties of rational normal curves**, *International Mathematics Research Notices* **2025**, no. 7 (2025). [DOI](https://doi.org/10.1093/imrn/rnaf088)
+
+1. In-Kyun Kim, Jaehyun Kim, and Joonyeong Won, **K-unstable singular del Pezzo surfaces without anticanonical polar cylinder**, *International Mathematics Research Notices* **2024**, no. 18 (2024), 12599--12619. [DOI](https://doi.org/10.1093/imrn/rnae175)
+
+1. In-Kyun Kim, Takuzo Okada, and Joonyeong Won, **K-stability of birationally superrigid Fano 3-fold weighted hypersurfaces**, *Forum of Mathematics, Sigma* **11** (2023), E93. [DOI](https://doi.org/10.1017/fms.2023.87)
+
+1. In-Kyun Kim and Joonyeong Won, **Delta-invariants of complete intersection log del Pezzo surfaces**, *Proceedings A of the Royal Society of Edinburgh* **153** (2023), no. 3, 1021--1036. [DOI](https://doi.org/10.1017/prm.2022.30)
+
+1. Dasol Jeong, In-Kyun Kim, Jihun Park, and Joonyeong Won, **New Sasaki--Einstein 5-manifolds**, *Journal of the London Mathematical Society* **107** (2023), no. 3, 821--842. [DOI](https://doi.org/10.1112/jlms.12700)
+
+1. In-Kyun Kim, Viswanathan Nivedita, and Joonyeong Won, **K-stability of log del Pezzo hypersurfaces with index 2**, *International Journal of Mathematics* **33** (2022), no. 14, 2250070. [DOI](https://doi.org/10.1142/S0129167X22500707)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Briançon--Skoda exponents and the maximal root of reduced Bernstein--Sato polynomials**, *Selecta Mathematica. New Series* **28** (2022), no. 4, Paper No. 78. [DOI](https://doi.org/10.1007/s00029-022-00791-1)
+
+1. In-Kyun Kim and Yongjoo Shin, **Log canonical thresholds on Burniat surfaces with $K^2 = 6$ via pluricanonical divisors**, *Taiwanese Journal of Mathematics* **26** (2022), no. 6, 1133--1144. [DOI](https://doi.org/10.11650/tjm/220605)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Higher Du Bois singularities of hypersurfaces**, *Proceedings of the London Mathematical Society* **125** (2022), no. 3, 543--567. [DOI](https://doi.org/10.1112/plms.12464)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Hodge ideal and spectrum of isolated hypersurface singularities**, *Annales de l'Institut Fourier* **72** (2022), no. 2, 465--510. [DOI](https://doi.org/10.5802/aif.3453)
+
+1. In-Kyun Kim and Joonyeong Won, **Unstable singular del Pezzo hypersurfaces with lower index**, *Communications in Algebra* **49** (2021), no. 6, 2679--2688. [DOI](https://doi.org/10.1080/00927872.2021.1880591)
+
+1. In-Kyun Kim, Takuzo Okada, and Joonyeong Won, **Alpha invariants of birationally bi-rigid Fano 3-folds I**, *European Journal of Mathematics* **7** (2021), no. 1, 272--308. [DOI](https://doi.org/10.1007/s40879-020-00441-w)
+
+1. In-Kyun Kim and Yongjoo Shin, **Log canonical thresholds of Burniat surfaces with $K^2 = 6$**, *Mathematical Research Letters* **27** (2020), no. 4, 1079--1094. [DOI](https://doi.org/10.4310/MRL.2020.v27.n4.a5)
+
+1. In-Kyun Kim and Joonyeong Won, **Weakly exceptional singularities of log del Pezzo surfaces**, *International Journal of Mathematics* **30** (2019), no. 1, 1950010. [DOI](https://doi.org/10.1142/S0129167X19500101)
+
+1. In-Kyun Kim, Takuzo Okada, and Joonyeong Won, **Alpha invariants of birationally rigid Fano threefolds**, *International Mathematics Research Notices* **2018**, no. 9 (2018), 2745--2800. [DOI](https://doi.org/10.1093/imrn/rnw310)
+
+1. Young-Hoon Kiem, In-Kyun Kim, Hwayoung Lee, and Kyoung-Seog Lee, **All complete intersection varieties are Fano visitors**, *Advances in Mathematics* **311** (2017), 649--661. [DOI](https://doi.org/10.1016/j.aim.2017.02.030)
+
+1. In-Kyun Kim and Jihun Park, **Log Canonical Thresholds of Complete Intersection Log Del Pezzo Surfaces**, *Proceedings of the Edinburgh Mathematical Society* **58** (2015), no. 2, 445--483. [DOI](https://doi.org/10.1017/S0013091515000012)
+
+## Preprints
+
+1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **On the Cylindricity of Certain Weighted Hypersurfaces**.
+
+1. In-Kyun Kim, Masatomo Sawahara, and Joonyeong Won, **Polarized cylinders on blow-ups of weighted projective planes**. [arXiv:2605.10244](https://arxiv.org/abs/2605.10244)
+
+1. Adrien Dubouloz, In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in weighted Fano varieties**. [arXiv:2603.11490](https://arxiv.org/abs/2603.11490)
+
+1. In-Kyun Kim, Dae-Won Lee, and Masatomo Sawahara, **Cylindricity of weighted singular del Pezzo surfaces over fields of characteristic zero**. [arXiv:2512.20134](https://arxiv.org/abs/2512.20134)
+
+1. In-Kyun Kim and Morihiko Saito, **Subtlety of oscillation indices of oscillatory integrals of real analytic functions**. [arXiv:2511.16257](https://arxiv.org/abs/2511.16257)
+
+1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Automorphism groups and cylindricity of weighted hypersurface Fano threefolds**. [arXiv:2508.04367](https://arxiv.org/abs/2508.04367)
+
+1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**. [arXiv:2507.13649](https://arxiv.org/abs/2507.13649)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
+
+1. In-Kyun Kim, Jaehyun Kim, and Joonyeong Won, **Rigid affine cones over singular del Pezzo surfaces**. [arXiv:2506.01310](https://arxiv.org/abs/2506.01310)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Some remarks on the generalized Hertling conjecture for Tjurina spectrum**. [arXiv:2406.06242](https://arxiv.org/abs/2406.06242)
+
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Spectrum of non-degenerate functions with simplicial Newton polytopes**. [arXiv:1911.09465](https://arxiv.org/abs/1911.09465)
+
+1. Seung-Jo Jung, In-Kyun Kim, and Youngho Yoon, **Hodge ideal and spectrum of weighted homogeneous isolated singularities**. [arXiv:1812.07298](https://arxiv.org/abs/1812.07298)
+
+## Books and book chapters
+
+1. In-Kyun Kim, Viswanathan Nivedita, and Joonyeong Won, **On Singular Del Pezzo Hypersurfaces of Index 3**, in *Birational Geometry, Kähler--Einstein Metrics and Degenerations*, I. Cheltsov, X. Chen, L. Katzarkov, and J. Park, eds., Springer International Publishing, Cham, 2023, 409--422. [DOI](https://doi.org/10.1007/978-3-031-17859-7_21)

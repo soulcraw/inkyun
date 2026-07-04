@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "In-Kyun Kim"
+  site-url: "https://soulcraw.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+    right:
+      - icon: envelope
+        href: mailto:soulcraw@kias.re.kr
+        aria-label: Email
+  page-footer:
+    left: "© In-Kyun Kim"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles/styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true

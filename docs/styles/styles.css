@@ -1,0 +1,19 @@
+.profile-box {
+  border-left: 4px solid #2c7fb8;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  background: #f7fbff;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.quarto-title-banner {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}

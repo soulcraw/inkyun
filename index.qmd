@@ -1,0 +1,37 @@
+---
+title: "In-Kyun Kim"
+subtitle: "HCMC Fellow, June E. Huh Center for Mathematical Challenges"
+---
+
+::: {.profile-box}
+**Email:** [soulcraw@kias.re.kr](mailto:soulcraw@kias.re.kr)  
+**Affiliation:** June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study
+:::
+
+## Who am I?
+
+I am a HCMC Fellow at the June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study. My primary research interests are in algebraic geometry and complex geometry, particularly birational geometry. More precisely, my current research focuses on the study of Fano varieties and their applications.
+
+## Research interests
+
+- Algebraic geometry
+- Birational geometry
+- Fano varieties
+- Log canonical thresholds
+- K-stability
+- Kähler–Einstein metrics
+- Mixed Hodge modules
+
+## Selected recent work
+
+- Wall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces.
+- Cylinders in weighted Fano varieties.
+
+See the full list on the [Research](research.qmd) page.
+
+## Contact information
+
+June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study  
+85 Hoegiro, Dongdaemun-gu, Seoul 02455, Republic of Korea
+
+Email: [soulcraw@kias.re.kr](mailto:soulcraw@kias.re.kr)
