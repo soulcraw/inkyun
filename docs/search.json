@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "In-Kyun Kim",
-    "section": "",
-    "text": "Email: soulcraw@kias.re.kr\nAffiliation: June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study"
-  },
-  {
-    "objectID": "index.html#who-am-i",
-    "href": "index.html#who-am-i",
-    "title": "In-Kyun Kim",
-    "section": "Who am I?",
-    "text": "Who am I?\nI am a HCMC Fellow at the June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study. My primary research interests are in algebraic geometry and complex geometry, particularly birational geometry. More precisely, my current research focuses on the study of Fano varieties and their applications."
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "In-Kyun Kim",
-    "section": "Research interests",
-    "text": "Research interests\n\nAlgebraic geometry\nBirational geometry\nFano varieties\nLog canonical thresholds\nK-stability\nKähler–Einstein metrics\nMixed Hodge modules"
-  },
-  {
-    "objectID": "index.html#selected-recent-work",
-    "href": "index.html#selected-recent-work",
-    "title": "In-Kyun Kim",
-    "section": "Selected recent work",
-    "text": "Selected recent work\n\nWall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces.\nCylinders in weighted Fano varieties.\n\nSee the full list on the Research page."
-  },
-  {
-    "objectID": "index.html#contact-information",
-    "href": "index.html#contact-information",
-    "title": "In-Kyun Kim",
-    "section": "Contact information",
-    "text": "Contact information\nJune E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study\n85 Hoegiro, Dongdaemun-gu, Seoul 02455, Republic of Korea\nEmail: soulcraw@kias.re.kr"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -82,5 +47,40 @@
     "title": "Research",
     "section": "Books and book chapters",
     "text": "Books and book chapters\n\nIn-Kyun Kim, Viswanathan Nivedita, and Joonyeong Won, On Singular Del Pezzo Hypersurfaces of Index 3, in Birational Geometry, Kähler–Einstein Metrics and Degenerations, I. Cheltsov, X. Chen, L. Katzarkov, and J. Park, eds., Springer International Publishing, Cham, 2023, 409–422. DOI"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "In-Kyun Kim",
+    "section": "",
+    "text": "Email: soulcraw@kias.re.kr\nAffiliation: June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study"
+  },
+  {
+    "objectID": "index.html#who-am-i",
+    "href": "index.html#who-am-i",
+    "title": "In-Kyun Kim",
+    "section": "Who am I?",
+    "text": "Who am I?\nI am a HCMC Fellow at the June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study. My primary research interests are in algebraic geometry and complex geometry, particularly birational geometry. More precisely, my current research focuses on the study of Fano varieties and their applications."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "In-Kyun Kim",
+    "section": "Research interests",
+    "text": "Research interests\n\nAlgebraic geometry\nBirational geometry\nFano varieties\nLog canonical thresholds\nK-stability\nKähler–Einstein metrics\nMixed Hodge modules"
+  },
+  {
+    "objectID": "index.html#selected-recent-work",
+    "href": "index.html#selected-recent-work",
+    "title": "In-Kyun Kim",
+    "section": "Selected recent work",
+    "text": "Selected recent work\n\nWall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces.\nCylinders in weighted Fano varieties.\n\nSee the full list on the Research page."
+  },
+  {
+    "objectID": "index.html#contact-information",
+    "href": "index.html#contact-information",
+    "title": "In-Kyun Kim",
+    "section": "Contact information",
+    "text": "Contact information\nJune E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study\n85 Hoegiro, Dongdaemun-gu, Seoul 02455, Republic of Korea\nEmail: soulcraw@kias.re.kr"
   }
 ]
