@@ -12,14 +12,24 @@ subtitle: "HCMC Fellow, June E. Huh Center for Mathematical Challenges"
 
 I am a HCMC Fellow at the June E. Huh Center for Mathematical Challenges, Korea Institute for Advanced Study. My primary research interests are in algebraic geometry and complex geometry, particularly birational geometry. More precisely, my current research focuses on the study of Fano varieties and their applications.
 
+## Research overview
+
+My research is in algebraic geometry, with a particular focus on birational geometry, Fano varieties, K-stability, and singularity theory.
+
+A central theme of my work is the geometry of weighted projective varieties. In particular, I study the birational and metric properties of weighted Fano hypersurfaces, including questions related to K-stability, K-moduli spaces, delta-invariants, and cylinders.
+
+I am also interested in singularities and their Hodge-theoretic invariants, including log canonical thresholds, Hodge ideals, Du Bois singularities, Bernstein–Sato polynomials, and the spectra of hypersurface singularities.
+
 ## Research interests
 
 - Algebraic geometry
 - Birational geometry
 - Fano varieties
+- Weighted projective varieties
 - Log canonical thresholds
-- K-stability
+- K-stability and K-moduli
 - Kähler–Einstein metrics
+- Cylinders and affine geometry
 - Mixed Hodge modules
 
 ## Selected recent work
