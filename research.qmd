@@ -4,6 +4,8 @@ title: "Research"
 
 ## Publications
 
+1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**, *Journal of the London Mathematical Society*. [arXiv:2507.13649](https://arxiv.org/abs/2507.13649).
+
 1. In-Kyun Kim, Yuchen Liu, and Chengxi Wang, **Wall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces**, *Forum of Mathematics, Sigma* **14** (2026), e79. [DOI](https://doi.org/10.1017/fms.2026.10225)
 
 1. In-Kyun Kim and Joonyeong Won, **On K-stability of blow-ups of weighted projective planes**, *Proceedings of the Royal Society of Edinburgh. Section A. Mathematics* **156** (2026) no. 3, 1013-1029. [DOI](https://doi.org/10.1017/prm.2025.10064)
@@ -57,8 +59,6 @@ title: "Research"
 1. In-Kyun Kim and Morihiko Saito, **Subtlety of oscillation indices of oscillatory integrals of real analytic functions**. [arXiv:2511.16257](https://arxiv.org/abs/2511.16257)
 
 1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Automorphism groups and cylindricity of weighted hypersurface Fano threefolds**. [arXiv:2508.04367](https://arxiv.org/abs/2508.04367)
-
-1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**. [arXiv:2507.13649](https://arxiv.org/abs/2507.13649)
 
 1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
 
