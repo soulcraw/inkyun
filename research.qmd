@@ -4,7 +4,9 @@ title: "Research"
 
 ## Publications
 
-1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**, *Journal of the London Mathematical Society*. [arXiv:2507.13649](https://arxiv.org/abs/2507.13649).
+1. Adrien Dubouloz, In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in weighted Fano varieties**, *EMS Surveys in Mathematical Sciences*, [arXiv:2603.11490](https://arxiv.org/abs/2603.11490).
+
+1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**, *Journal of the London Mathematical Society*, [arXiv:2507.13649](https://arxiv.org/abs/2507.13649).
 
 1. In-Kyun Kim, Yuchen Liu, and Chengxi Wang, **Wall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces**, *Forum of Mathematics, Sigma* **14** (2026), e79. [DOI](https://doi.org/10.1017/fms.2026.10225)
 
@@ -51,8 +53,6 @@ title: "Research"
 1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **On the Cylindricity of Certain Weighted Hypersurfaces**.
 
 1. In-Kyun Kim, Masatomo Sawahara, and Joonyeong Won, **Polarized cylinders on blow-ups of weighted projective planes**. [arXiv:2605.10244](https://arxiv.org/abs/2605.10244)
-
-1. Adrien Dubouloz, In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in weighted Fano varieties**. [arXiv:2603.11490](https://arxiv.org/abs/2603.11490)
 
 1. In-Kyun Kim, Dae-Won Lee, and Masatomo Sawahara, **Cylindricity of weighted singular del Pezzo surfaces over fields of characteristic zero**. [arXiv:2512.20134](https://arxiv.org/abs/2512.20134)
 
