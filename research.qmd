@@ -49,6 +49,8 @@ title: "Research"
 1. In-Kyun Kim and Jihun Park, **Log Canonical Thresholds of Complete Intersection Log Del Pezzo Surfaces**, *Proceedings of the Edinburgh Mathematical Society* **58** (2015), no. 2, 445-483. [DOI](https://doi.org/10.1017/S0013091515000012)
 
 ## Preprints
+1. In-Kyun Kim, Dae-Won Lee, and Masatomo Sawahara, **Flexibility of affine cones over blow-ups of weighted projective planes**. [arXiv:2609.02500](https://arxiv.org/abs/2609.02500)
+
 1. Dasol Jeong, In-Kyun Kim, Jihun Park, and Joonyeong Won, **Sasaki-Einstein metrics on connected sums of $S^3\times S^4$**. [arXiv:2608.29695](https://arxiv.org/abs/2608.29695)
 
 1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **On the Cylindricity of Certain Weighted Hypersurfaces**.
