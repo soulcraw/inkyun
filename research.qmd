@@ -3,6 +3,8 @@ title: "Research"
 ---
 
 ## Publications
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. *Kodai Mathematical Journal*, [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
+
 1. In-Kyun Kim, Masatomo Sawahara, and Joonyeong Won, **Polarized cylinders on blow-ups of weighted projective planes**, *Taiwanese Journal of Mathematics*, [arXiv:2605.10244](https://arxiv.org/abs/2605.10244).
 
 1. Adrien Dubouloz, In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in weighted Fano varieties**, *EMS Surveys in Mathematical Sciences*, [arXiv:2603.11490](https://arxiv.org/abs/2603.11490).
@@ -63,8 +65,6 @@ title: "Research"
 1. In-Kyun Kim and Morihiko Saito, **Subtlety of oscillation indices of oscillatory integrals of real analytic functions**. [arXiv:2511.16257](https://arxiv.org/abs/2511.16257)
 
 1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Automorphism groups and cylindricity of weighted hypersurface Fano threefolds**. [arXiv:2508.04367](https://arxiv.org/abs/2508.04367)
-
-1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
 
 1. In-Kyun Kim, Jaehyun Kim, and Joonyeong Won, **Rigid affine cones over singular del Pezzo surfaces**. [arXiv:2506.01310](https://arxiv.org/abs/2506.01310)
 
