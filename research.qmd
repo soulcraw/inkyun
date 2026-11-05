@@ -3,13 +3,13 @@ title: "Research"
 ---
 
 ## Publications
-1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. *Kodai Mathematical Journal*, [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Some remarks on the generalized Hertling conjecture for Tjurina spectrum**, *Kodai Mathematical Journal*, [arXiv:2406.06242](https://arxiv.org/abs/2406.06242).
 
 1. In-Kyun Kim, Masatomo Sawahara, and Joonyeong Won, **Polarized cylinders on blow-ups of weighted projective planes**, *Taiwanese Journal of Mathematics*, [arXiv:2605.10244](https://arxiv.org/abs/2605.10244).
 
 1. Adrien Dubouloz, In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Cylinders in weighted Fano varieties**, *EMS Surveys in Mathematical Sciences*, [arXiv:2603.11490](https://arxiv.org/abs/2603.11490).
 
-1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**, *Journal of the London Mathematical Society*, Volume 114, Issue 3: e70687. [DOI](https://doi.org/10.1112/jlms.70687), [arXiv:2507.13649](https://arxiv.org/abs/2507.13649)
+1. In-Kyun Kim and Dae-Won Lee, **K-stability of del Pezzo surfaces with a single quotient singularity**, *Journal of the London Mathematical Society*, Volume 114, Issue 3: e70687. [DOI](https://doi.org/10.1112/jlms.70687), [arXiv:2507.13649](https://arxiv.org/abs/2507.13649).
 
 1. In-Kyun Kim, Yuchen Liu, and Chengxi Wang, **Wall-crossing for K-moduli spaces of certain families of weighted projective hypersurfaces**, *Forum of Mathematics, Sigma* **14** (2026), e79. [DOI](https://doi.org/10.1017/fms.2026.10225)
 
@@ -66,9 +66,9 @@ title: "Research"
 
 1. In-Kyun Kim, Takashi Kishimoto, and Joonyeong Won, **Automorphism groups and cylindricity of weighted hypersurface Fano threefolds**. [arXiv:2508.04367](https://arxiv.org/abs/2508.04367)
 
-1. In-Kyun Kim, Jaehyun Kim, and Joonyeong Won, **Rigid affine cones over singular del Pezzo surfaces**. [arXiv:2506.01310](https://arxiv.org/abs/2506.01310)
+1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Tjurina spectrum and graded symmetry of missing spectral numbers**. [arXiv:2411.17601](https://arxiv.org/abs/2411.17601)
 
-1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Some remarks on the generalized Hertling conjecture for Tjurina spectrum**. [arXiv:2406.06242](https://arxiv.org/abs/2406.06242)
+1. In-Kyun Kim, Jaehyun Kim, and Joonyeong Won, **Rigid affine cones over singular del Pezzo surfaces**. [arXiv:2506.01310](https://arxiv.org/abs/2506.01310)
 
 1. Seung-Jo Jung, In-Kyun Kim, Morihiko Saito, and Youngho Yoon, **Spectrum of non-degenerate functions with simplicial Newton polytopes**. [arXiv:1911.09465](https://arxiv.org/abs/1911.09465)
 
